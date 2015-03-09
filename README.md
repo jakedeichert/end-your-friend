@@ -6,4 +6,4 @@ This was a quick little game my partner (Matt Joncas) and I made for an ActionSc
 
 Developed by:
   - [Jake Deichert](https://github.com/jakedeichert)
-  - [Matt Joncas]()
+  - [Matt Joncas](http://mattjoncas.com)
